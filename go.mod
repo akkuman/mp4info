@@ -1,3 +1,3 @@
-module GetMP4Duration
+module mp4info
 
 go 1.13
